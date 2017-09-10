@@ -1,7 +1,7 @@
 import axios from 'axios';
 // const API_BASE_URL='http://api.fixer.io/latest';
 const API_BASE_URL = 'http://apilayer.net/api';
-const API_KEY= '2ac0559891a3664d6cec2c270361c278';
+const API_KEY= '*******';
 
 
 export const pickFlag1 = (value)=>{
